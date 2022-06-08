@@ -1,5 +1,5 @@
 ### Hi there 👋 
-- 🔭 I’m currently working on MERN Stack and currently looking for Remote FullStack Role.
+- 🔭 I’m currently working on MERN Stack and actively looking for _Remote FullStack Software Engineer Role_.
 <!-- - 🌱 I’m currently learning NodeJs -->
 - 👯 I’m looking to collaborate on FullStack project of MERN Stack.
 <!-- - 🤔 I’m looking for help with ... -->
