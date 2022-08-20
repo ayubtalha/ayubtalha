@@ -9,7 +9,7 @@ I’d love to hear about your story. Do ping me if there is anything you want to
 <br/>  
 
 ### Work Experience 💼!  
-<h4 align="left">[MaanzAI Pvt Ltd - Strategic Partner Automotive Artificial Intelligence (AAI) GmbH](https://www.automotive-ai.com/)</h4>
+<h4><a href="https://www.automotive-ai.com/">MaanzAI Pvt Ltd - Strategic Partner Automotive Artificial Intelligence (AAI) GmbH</a></h4>
 <h4>Software Engineer • Islamabad, Pakistan • 10/2020 - Present</h4>
 <ul>
   <li>Working on the MERN Stack for the development of the simulation software for 50+ users.</li>
@@ -22,7 +22,7 @@ I’d love to hear about your story. Do ping me if there is anything you want to
 
 <hr>
 
-<h4 align="left">[Teamo.io](https://teamo.io/)</h4>
+<h4><a href="https://teamo.io/">Teamo.io</a></h4>
 <h4>Software Engineer • Remote • 09/2021 - 01/2022</h4>
 <ul>
   <li>Worked 15-20 hours per week on LIV Project (Patients Dashboard) using MEVN, Serverless, AWS Lambdas technology stack.</li>
@@ -47,7 +47,7 @@ I’d love to hear about your story. Do ping me if there is anything you want to
 <hr>
 
 ### Education 🎓!  
-<h4 align="left">BE, GeoInformatics Engineering</h4>
+<h4><a href="https://nust.edu.pk/">BE, GeoInformatics Engineering</a></h4>
 <h4>National University of Sciences and Technology (NUST), Islamabad, Pakistan • 09/2015 - 05/2019</h4>
 
 <hr>
