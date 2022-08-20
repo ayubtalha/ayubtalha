@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Talha Ayub/h1>
+<h1 align="center">Hi 👋, I'm Talha Ayub</h1>
 <h3 align="center">FullStack Software Engineer</h3>
 
 - 👽 Technology stack is MERN and I am actively applying for _FullStack Software Engineer Role_.
