@@ -1,7 +1,16 @@
 <h1 align="center">Hi 👋, I'm Talha Ayub</h1>
 <h3 align="center">FullStack Software Engineer</h3>
 
-- 👽 Technology stack is MERN and I am actively applying for _FullStack Software Engineer Role_.
+
+### Glad to see you here. A small intro of myself 😊!  
+I am Talha Ayub a Software Engineer with 3+ years of Professional experience in FullStack Development. Currently, leading a team of 3 developers to architect, design and deliver high-quality, E2E tested software. A great achievement at AAI is the unification of 5 standalone Software into 1 Software, in 6 weeks which reduced the company cost by 65%.
+
+I’d love to hear about your story. Do ping me if there is anything you want to discuss or share.
+<br/>  
+
+### Here we Go!  
+
+- 👽 My Technology stack is MERN and currently I am actively applying for _FullStack Software Engineer Role_.
 
 - 🔭 I’m currently working on [ReplicaR at Automotive Artificial Intelligence Gmbh](https://www.automotive-ai.com/technologies/simulation-platform)
 
@@ -17,13 +26,13 @@
 
 - ⚡ Fun fact **I Eat, breathe and sleep with JavaScript. Really love working on DSA**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me!</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ayubtalha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayubtalha" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14021846" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14021846" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools!</h3>
 <table><tr><td valign="top" width="33%">
 
 
