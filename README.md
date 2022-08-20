@@ -2,11 +2,55 @@
 <h3 align="center">FullStack Software Engineer</h3>
 
 
-### Glad to see you here. A small intro of myself 😊!  
+### Glad to see you here 😊!  
 I am Talha Ayub a Software Engineer with 3+ years of Professional experience in FullStack Development. Currently, leading a team of 3 developers to architect, design and deliver high-quality, E2E tested software. A great achievement at AAI is the unification of 5 standalone Software into 1 Software, in 6 weeks which reduced the company cost by 65%.
 
 I’d love to hear about your story. Do ping me if there is anything you want to discuss or share.
 <br/>  
+
+### Work Experience 💼!  
+<h4 align="left">[MaanzAI Pvt Ltd - Strategic Partner Automotive Artificial Intelligence (AAI) GmbH](https://www.automotive-ai.com/)</h4>
+<h4>Software Engineer • Islamabad, Pakistan • 10/2020 - Present</h4>
+<ul>
+  <li>Working on the MERN Stack for the development of the simulation software for 50+ users.</li>
+  <li>Refactored the Frontend architecture and code in 6 weeks, to unify 5 standalone products to be accessible via one UI thus reducing the company cost by 65%.</li>
+  <li>Improved software architecture and code quality by removing the dependency of coupled components & redundant API calls thus saving 5 minutes on each simulation test creation</li>
+  <li>Responsible for the release of the product (documentation, testing & finalizing release notes).</li>
+  <li>Sprint Planning of 3-week with Product Owner and Team members using Scrum (Agile Methodology).</li>
+  <li>Training and onboarding of fresh hires. Made a road map for fresh hires from training to development.</li>
+</ul> 
+
+<hr>
+
+<h4 align="left">[Teamo.io](https://teamo.io/)</h4>
+<h4>Software Engineer • Remote • 09/2021 - 01/2022</h4>
+<ul>
+  <li>Worked 15-20 hours per week on LIV Project (Patients Dashboard) using MEVN, Serverless, AWS Lambdas technology stack.</li>
+  <li>Shifted the client's data from MongoDB to Truevault Management to follow HIPPA law of the USA thus avoiding any patient’s data breach.</li>
+  <li>Deployed the application to Netlify in a week, thus making the project delivery continuous for clients within a 4-5 hour time period.</li>
+  <li>Integrated CI/CD Pipeline to reduce the project delivery time by 80%.</li>
+</ul> 
+
+<hr>
+
+<h4 align="left">Survey Tech Pvt. Ltd</h4>
+<h4>Software Engineer • Lahore, Punjab, Pakistan • 09/2019 - 08/2020</h4>
+<ul>
+  <li>Leverage React.js & TailwindCSS framework for the frontend of projects.</li>
+  <li>Integrate designs and wireframes within 2 weeks in an application.</li>
+  <li>Optimize components to work seamlessly across different browsers and devices.</li>
+  <li>Responsible for the release of the product (documentation, testing & finalizing release notes).</li>
+  <li>Implementation of new feature's as per need of customer's requirements.</li>
+  <li>Made a React theme for all of the projects which reduced the project delivery time by 20%.</li>
+</ul> 
+
+<hr>
+
+### Education 🎓!  
+<h4 align="left">BE, GeoInformatics Engineering</h4>
+<h4>National University of Sciences and Technology (NUST), Islamabad, Pakistan • 09/2015 - 05/2019</h4>
+
+<hr>
 
 ### Here we Go!  
 
