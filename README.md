@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Talha Ayub</h1>
-<h3 align="center">FullStack Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <!--- Commented
 ### Glad to see you here 😊!  
 
-I am Talha Ayub a Software Engineer with 3+ years of Professional experience in FullStack Development. Currently, leading a team of 3 developers to architect, design and deliver high-quality, E2E tested software. A great achievement at AAI is the unification of 5 standalone Software into 1 Software, in 6 weeks which reduced the company cost by 65%. 
+I am Talha Ayub a Software Engineer with 5 years of Professional experience in Software Development. Currently, leading a team of 3 developers to architect, design, and deliver high-quality, E2E tested software. A great achievement at AAI is the unification of 5 standalone Software into 1 Software, in 6 weeks which reduced the company's cost by 65%. 
 
 I’d love to hear about your story. Do ping me if there is anything you want to discuss or share.
 <br/>  
@@ -56,7 +56,7 @@ I’d love to hear about your story. Do ping me if there is anything you want to
 ### Here we Go!  
 -->
 
-- 👽 My Technology stack is MERN.
+- 👽 My Technology stack is TypeScript, NodeJs.
 
 - 🔭 I’m currently working on [ReplicaR at Automotive Artificial Intelligence Gmbh](https://www.automotive-ai.com/technologies/simulation-platform)
 
